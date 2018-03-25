@@ -1,4 +1,4 @@
-cur_x = 1 # The algorithm starts at x=6
+cur_x = 5 #The algorithm starts at x=6
 gamma = 0.01 # step size multiplier
 precision = 0.00001
 previous_step_size = 1/precision; # some large value
